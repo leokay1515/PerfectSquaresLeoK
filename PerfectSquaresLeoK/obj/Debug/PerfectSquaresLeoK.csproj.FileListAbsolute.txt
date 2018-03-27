@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 3 (Decisions)\PerfectSquaresLeoK\PerfectSquaresLeoK\bin\Debug\PerfectSquaresLeoK.exe.config
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 3 (Decisions)\PerfectSquaresLeoK\PerfectSquaresLeoK\bin\Debug\PerfectSquaresLeoK.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 3 (Decisions)\PerfectSquaresLeoK\PerfectSquaresLeoK\bin\Debug\PerfectSquaresLeoK.pdb
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 3 (Decisions)\PerfectSquaresLeoK\PerfectSquaresLeoK\obj\Debug\PerfectSquaresLeoK.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 3 (Decisions)\PerfectSquaresLeoK\PerfectSquaresLeoK\obj\Debug\PerfectSquaresLeoK.frmPerfectSquaresLeoK.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 3 (Decisions)\PerfectSquaresLeoK\PerfectSquaresLeoK\obj\Debug\PerfectSquaresLeoK.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 3 (Decisions)\PerfectSquaresLeoK\PerfectSquaresLeoK\obj\Debug\PerfectSquaresLeoK.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 3 (Decisions)\PerfectSquaresLeoK\PerfectSquaresLeoK\obj\Debug\PerfectSquaresLeoK.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 3 (Decisions)\PerfectSquaresLeoK\PerfectSquaresLeoK\obj\Debug\PerfectSquaresLeoK.pdb
